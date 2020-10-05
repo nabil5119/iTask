@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">todotest</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_shop">Shop</string>
+    <string name="add">+</string>
+    <string name="stop">|</string>
+</resources>
